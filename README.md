@@ -12,3 +12,6 @@
 :!ls shows files/folders in current directory
 
 :cd change directory
+
+
+:t to find the type of a variable
